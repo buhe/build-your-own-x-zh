@@ -2,6 +2,7 @@
 
 * [Operating System](#build-your-own-operating-system)
 * [Programming Language](#build-your-own-programming-language)
+* [Emulator / Virtual Machine](#build-your-own-emulator--virtual-machine)
 
 ## Tutorials
 
@@ -12,3 +13,7 @@
 #### Build your own `Programming Language`
 
 * [**Rust**: _MiniDecaf 编译实验_](https://decaf-lang.github.io/minidecaf-tutorial/)
+
+#### Build your own `Emulator / Virtual Machine`
+
+inspired by https://github.com/codecrafters-io/build-your-own-x
