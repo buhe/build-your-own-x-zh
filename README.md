@@ -15,5 +15,7 @@
 * [**Rust**: _MiniDecaf 编译实验_](https://decaf-lang.github.io/minidecaf-tutorial/)
 
 #### Build your own `Emulator / Virtual Machine`
+* [**Rust**: _NES 模拟器翻译_](https://blog.buhe.dev/nes)
+
 
 inspired by https://github.com/codecrafters-io/build-your-own-x
