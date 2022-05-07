@@ -17,6 +17,7 @@
 
 #### Build your own `Emulator / Virtual Machine`
 * [**Rust**: _NES 模拟器翻译_](https://blog.buhe.dev/nes)
+* [**Type Script**: _NES 模拟器开发教程_](https://www.jianshu.com/p/d12426ebc2cb)
 
 #### Build your own `Digital Products`
 
