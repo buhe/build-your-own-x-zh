@@ -31,6 +31,6 @@
 #### Build your own `Docker`
 
 #### Build your own `BitTorrent Client`
-
+* [**Type Script**: tinyTorrent: 从头写一个 Deno 的 BitTorrent 下载器](https://cjting.me/2020/10/31/tinytorrent-a-deno-bt-downloader/)
 
 inspired by https://github.com/codecrafters-io/build-your-own-x
