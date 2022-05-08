@@ -16,6 +16,10 @@
 
 ## Tutorials
 
+#### Build your own `Bot`
+
+* [**Type Script**: _telegram bot_](https://blog.buhe.dev/telegram-bot)
+
 #### Build your own `Operating System`
 
 * [**Rust**: _rCore-Tutorial-Book 第三版_](https://rcore-os.github.io/rCore-Tutorial-Book-v3/index.html)
