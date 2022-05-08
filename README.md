@@ -1,3 +1,5 @@
+# ![Build your own X](https://github.com/codecrafters-io/build-your-own-x/raw/master/feynman.png)
+
 ## Table of contents
 
 * [Bot](#build-your-own-bot)
