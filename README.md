@@ -15,6 +15,7 @@
 * [BitTorrent Client](#build-your-own-bittorrent-client)
 * [Text Editor](#build-your-own-text-editor)
 * [Web Server](#build-your-own-web-server)
+* [Plugin](#build-your-own-plugin)
 
 ## Tutorials
 
@@ -47,5 +48,9 @@
 
 #### Build your own `BitTorrent Client`
 * [**Type Script**: tinyTorrent: 从头写一个 Deno 的 BitTorrent 下载器 ](https://cjting.me/2020/10/31/tinytorrent-a-deno-bt-downloader/)
+
+#### Build your own `Plugin`
+
+* [**Type Script**: vs codec插件 ]()
 
 inspired by https://github.com/codecrafters-io/build-your-own-x
