@@ -51,6 +51,6 @@
 
 #### Build your own `Plugin`
 
-* [**Type Script**: vs code 插件 ]()
+* [**Type Script**: vs code 插件 ](https://blog.buhe.dev/vs-code)
 
 inspired by https://github.com/codecrafters-io/build-your-own-x
