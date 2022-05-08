@@ -18,6 +18,7 @@
 * [Plugin](#build-your-own-plugin)
 * [Pcb](#build-your-own-pcb)
 * [Chip](#build-your-own-chip)
+* [Web Assembly Runtime](#build-your-own-webassembly-runtime)
 
 ## Tutorials
 
