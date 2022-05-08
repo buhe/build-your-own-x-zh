@@ -25,6 +25,10 @@
 
 * [**Type Script**: _telegram 机器人_](https://blog.buhe.dev/telegram-bot)
 
+#### Build your own `Shell`
+
+* [**C**: _自己动手写一个Unix Shell_](https://www.jxtxzzw.com/archives/3717)
+
 #### Build your own `Network Stack`
 
 * [**C**: _自己动手写一个小型的TCP/IP协议_](https://blog.csdn.net/clrmas/article/details/52843350)
