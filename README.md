@@ -51,6 +51,6 @@
 
 #### Build your own `Plugin`
 
-* [**Type Script**: vs codec插件 ]()
+* [**Type Script**: vs code 插件 ]()
 
 inspired by https://github.com/codecrafters-io/build-your-own-x
