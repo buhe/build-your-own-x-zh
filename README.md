@@ -18,7 +18,7 @@
 
 #### Build your own `Bot`
 
-* [**Type Script**: _telegram bot_](https://blog.buhe.dev/telegram-bot)
+* [**Type Script**: _telegram 机器人_](https://blog.buhe.dev/telegram-bot)
 
 #### Build your own `Operating System`
 
