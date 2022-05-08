@@ -26,6 +26,7 @@
 
 #### Build your own `Database`
 * [**Java**: _自己动手写SQL执行引擎_](https://github.com/alchemystar/Freedom)
+* [**Python**: _重写 500 Lines or Less 项目 - Dagoba_](https://shuhari.dev/blog/2022/02/500lines-rewrite-dagoba)
 
 #### Build your own `Docker`
 
