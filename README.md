@@ -16,6 +16,8 @@
 * [Text Editor](#build-your-own-text-editor)
 * [Web Server](#build-your-own-web-server)
 * [Plugin](#build-your-own-plugin)
+* [Pcb](#build-your-own-pcb)
+* [Chip](#build-your-own-chip)
 
 ## Tutorials
 
