@@ -1,5 +1,9 @@
 ## Table of contents
 
+* [Bot](#build-your-own-bot)
+* [Shell](#build-your-own-shell)
+* [Network Stack](#build-your-own-network-stack)
+* [Neural Network](#build-your-own-neural-network)
 * [Operating System](#build-your-own-operating-system)
 * [Programming Language](#build-your-own-programming-language)
 * [Emulator / Virtual Machine](#build-your-own-emulator--virtual-machine)
@@ -7,6 +11,8 @@
 * [Database](#build-your-own-database)
 * [Docker](#build-your-own-docker)
 * [BitTorrent Client](#build-your-own-bittorrent-client)
+* [Text Editor](#build-your-own-text-editor)
+* [Web Server](#build-your-own-web-server)
 
 ## Tutorials
 
