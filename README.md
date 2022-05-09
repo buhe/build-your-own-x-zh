@@ -68,23 +68,23 @@
 
 ### Book
 
-* [Operating System]
+* Operating System
   * [操作系统概念（原书第9版）](https://book.douban.com/subject/30297919/)
   * [操作系统导论](https://book.douban.com/subject/33463930/)
-* [Programming Language]
+* Programming Language
   * [两周自制脚本语言](https://book.douban.com/subject/25908672/)
-* [Emulator / Virtual Machine]
+* Emulator / Virtual Machine
   * [计算机组成与设计：硬件/软件接口](https://book.douban.com/subject/35088440/)
 
 ### Video
 
-* [Operating System]
+* Operating System
   * [清华 操作系统原理](https://www.bilibili.com/video/BV1uW411f72n)
-* [Programming Language]
+* Programming Language
   * [编译原理 — 中科大](https://www.bilibili.com/video/BV17W41187gL)
-* [Emulator / Virtual Machine]
+* Emulator / Virtual Machin
 
-* [Neural Network]
+* Neural Network
   * [吴恩达的 AI 课](https://www.bilibili.com/video/BV1G64y1r71B)
 
 
