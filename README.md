@@ -74,6 +74,7 @@
 * [Programming Language]
   * https://book.douban.com/subject/25908672/
 * [Emulator / Virtual Machine]
+  * https://book.douban.com/subject/35088440/
 
 ### Video
 
