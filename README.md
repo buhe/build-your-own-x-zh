@@ -69,7 +69,7 @@
 ### Book
 
 * [Operating System]
-  * https://book.douban.com/subject/30297919/
+  * [操作系统概念（原书第9版）](https://book.douban.com/subject/30297919/)
   * https://book.douban.com/subject/33463930/
 * [Programming Language]
   * https://book.douban.com/subject/25908672/
