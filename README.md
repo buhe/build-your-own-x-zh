@@ -67,6 +67,9 @@
 #### Build your own `BitTorrent Client`
 * [**Type Script**: tinyTorrent: 从头写一个 Deno 的 BitTorrent 下载器 ](https://cjting.me/2020/10/31/tinytorrent-a-deno-bt-downloader/)
 
+#### Build your own `Web Server`
+* [**Python**: 让我们一起来构建一个 Web 服务器 ](https://mozillazg.com/2015/06/let-us-build-a-web-server-part-1-zh-cn.html)
+
 #### Build your own `Plugin`
 
 * [**Type Script**: vs code 插件 TODO ](https://blog.buhe.dev/vs-code)
