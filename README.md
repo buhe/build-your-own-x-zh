@@ -84,5 +84,8 @@
   * [编译原理 — 中科大](https://www.bilibili.com/video/BV17W41187gL)
 * [Emulator / Virtual Machine]
 
+* [Neural Network]
+  * [吴恩达的 AI 课](https://www.bilibili.com/video/BV1G64y1r71B)
+
 
 inspired by https://github.com/codecrafters-io/build-your-own-x
