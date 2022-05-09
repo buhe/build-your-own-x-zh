@@ -19,6 +19,7 @@
 * [Pcb](#build-your-own-pcb)
 * [Chip](#build-your-own-chip)
 * [Web Assembly Runtime](#build-your-own-webassembly-runtime)
+* [Linker](#build-your-own-linker)
 
 ## Tutorials
 
