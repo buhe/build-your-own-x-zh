@@ -70,11 +70,11 @@
 
 * [Operating System]
   * [操作系统概念（原书第9版）](https://book.douban.com/subject/30297919/)
-  * https://book.douban.com/subject/33463930/
+  * [操作系统导论](https://book.douban.com/subject/33463930/)
 * [Programming Language]
-  * https://book.douban.com/subject/25908672/
+  * [两周自制脚本语言](https://book.douban.com/subject/25908672/
 * [Emulator / Virtual Machine]
-  * https://book.douban.com/subject/35088440/
+  * [计算机组成与设计：硬件/软件接口](https://book.douban.com/subject/35088440/)
 
 ### Video
 
