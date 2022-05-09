@@ -37,6 +37,7 @@
 
 #### Build your own `Neural Network`
 
+* [**Python**:  Python做人工智能？让电脑自己学会玩游戏，实战带你入门机器学习中的强化学习](https://cloud.tencent.com/developer/article/1871200)
 * [**Python**:  动手学深度学习](http://zh.gluon.ai/index.html)
 
 #### Build your own `Operating System`
