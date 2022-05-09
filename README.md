@@ -64,4 +64,22 @@
 
 * [**Type Script**: vs code 插件 ](https://blog.buhe.dev/vs-code)
 
+## Resources
+
+### Book
+
+* [Operating System]
+  * https://book.douban.com/subject/30297919/
+  * https://book.douban.com/subject/33463930/
+* [Programming Language]
+  * https://book.douban.com/subject/25908672/
+* [Emulator / Virtual Machine]
+
+### Video
+
+* [Operating System]
+* [Programming Language]
+* [Emulator / Virtual Machine]
+
+
 inspired by https://github.com/codecrafters-io/build-your-own-x
