@@ -83,8 +83,6 @@
   * [清华 操作系统原理](https://www.bilibili.com/video/BV1uW411f72n)
 * Programming Language
   * [编译原理 — 中科大](https://www.bilibili.com/video/BV17W41187gL)
-* Emulator / Virtual Machin
-
 * Neural Network
   * [吴恩达的 AI 课](https://www.bilibili.com/video/BV1G64y1r71B)
 
