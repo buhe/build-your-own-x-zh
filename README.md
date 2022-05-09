@@ -48,7 +48,8 @@
 
 #### Build your own `Programming Language`
 
-* [**Rust**: _MiniDecaf 编译实验_](https://decaf-lang.github.io/minidecaf-tutorial/)
+* [**C++/Python**: _MiniDecaf 编译实验_](https://decaf-lang.github.io/minidecaf-tutorial/)
+* [**Rust**: _编译原理2019_](https://mashplant.gitbook.io/decaf-doc/)
 
 #### Build your own `Emulator / Virtual Machine`
 * [**Rust**: _NES 模拟器(翻译，版权归原作者所有)_](https://blog.buhe.dev/nes)
