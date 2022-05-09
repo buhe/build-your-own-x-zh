@@ -25,7 +25,7 @@
 
 #### Build your own `Bot`
 
-* [**Type Script**: _telegram 机器人_](https://blog.buhe.dev/telegram-bot)
+* [**Type Script**: _telegram 机器人_TODO ](https://blog.buhe.dev/telegram-bot)
 
 #### Build your own `Shell`
 
@@ -69,7 +69,7 @@
 
 #### Build your own `Plugin`
 
-* [**Type Script**: vs code 插件 ](https://blog.buhe.dev/vs-code)
+* [**Type Script**: vs code 插件 TODO ](https://blog.buhe.dev/vs-code)
 
 ## Resources
 
