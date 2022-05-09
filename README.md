@@ -44,6 +44,7 @@
 
 * [**Rust**: _rCore-Tutorial-Book 第三版_](https://rcore-os.github.io/rCore-Tutorial-Book-v3/index.html)
 * [**Rust**: _Writing an OS in Rust_](https://os.phil-opp.com/zh-CN/)
+* [**C**: _Learning operating system development using Linux kernel and Raspberry Pi_](https://github.com/s-matyukevich/raspberry-pi-os/blob/master/translations/zh-cn/lesson01/rpi-os.md)
 
 #### Build your own `Programming Language`
 
