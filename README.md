@@ -79,7 +79,9 @@
 ### Video
 
 * [Operating System]
+  * https://www.bilibili.com/video/BV1uW411f72n
 * [Programming Language]
+  * https://www.bilibili.com/video/BV17W41187gL
 * [Emulator / Virtual Machine]
 
 
