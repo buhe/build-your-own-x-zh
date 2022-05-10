@@ -2,7 +2,6 @@
 
 ## Table of contents
 
-* [Bot](#build-your-own-bot)
 * [Shell](#build-your-own-shell)
 * [Network Stack](#build-your-own-network-stack)
 * [Neural Network](#build-your-own-neural-network)
@@ -15,17 +14,12 @@
 * [BitTorrent Client](#build-your-own-bittorrent-client)
 * [Text Editor](#build-your-own-text-editor)
 * [Web Server](#build-your-own-web-server)
-* [Plugin](#build-your-own-plugin)
 * [Pcb](#build-your-own-pcb)
 * [Chip](#build-your-own-chip)
 * [Web Assembly Runtime](#build-your-own-webassembly-runtime)
 * [Linker](#build-your-own-linker)
 
 ## Tutorials
-
-#### Build your own `Bot`
-
-* [**Type Script**: _telegram 机器人_TODO ](https://blog.buhe.dev/telegram-bot)
 
 #### Build your own `Shell`
 
@@ -71,10 +65,6 @@
 
 #### Build your own `Web Server`
 * [**Python**: 让我们一起来构建一个 Web 服务器 ](https://mozillazg.com/2015/06/let-us-build-a-web-server-part-1-zh-cn.html)
-
-#### Build your own `Plugin`
-
-* [**Type Script**: vs code 插件 TODO ](https://blog.buhe.dev/vs-code)
 
 #### Build your own `Pcb`
 
