@@ -76,6 +76,10 @@
 
 * [**Type Script**: vs code 插件 TODO ](https://blog.buhe.dev/vs-code)
 
+#### Build your own `Pcb`
+
+* [ 手把手教你用ESP32制作一个游戏机 ](https://www.eet-china.com/mp/a111761.html)
+
 ## Resources
 
 ### Book
