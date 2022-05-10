@@ -96,7 +96,7 @@
 * Neural Network
   * [吴恩达的 AI 课](https://www.bilibili.com/video/BV1G64y1r71B)
 * Chip
-  * [Nand2Tetris](https://www.bilibili.com/video/BV1g4411A7iU)
+  * [Nand2Tetris](https://www.bilibili.com/video/av80737268)
 
 
 inspired by https://github.com/codecrafters-io/build-your-own-x
