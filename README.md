@@ -105,6 +105,8 @@
   * [编译原理 — 中科大](https://www.bilibili.com/video/BV17W41187gL)
 * Neural Network
   * [吴恩达的 AI 课](https://www.bilibili.com/video/BV1G64y1r71B)
+* Chip
+  * [Nand2Tetris](https://www.bilibili.com/video/BV1g4411A7iU)
 
 
 inspired by https://github.com/codecrafters-io/build-your-own-x
