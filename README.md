@@ -97,6 +97,8 @@
   * [吴恩达的 AI 课](https://www.bilibili.com/video/BV1G64y1r71B)
 * Chip
   * [Nand2Tetris](https://www.bilibili.com/video/av80737268)
+* Pcb
+  * [一个电子产品的诞生记](https://www.bilibili.com/video/BV1XQ4y1C7Rb)
 
 
 inspired by https://github.com/codecrafters-io/build-your-own-x
