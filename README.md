@@ -75,7 +75,7 @@
 
 * [**Verilog**: 自己动手写处理器 ](https://blog.csdn.net/leishangwen/article/details/36875581)
 
-## Resources
+## Related Resources
 
 ### Book
 
