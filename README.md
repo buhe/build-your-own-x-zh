@@ -48,6 +48,7 @@
 #### Build your own `Emulator / Virtual Machine`
 * [**Rust**: _NES 模拟器(翻译，版权归原作者所有)_](https://blog.buhe.dev/nes)
 * [**Type Script**: _NES 模拟器开发教程_](https://www.jianshu.com/p/d12426ebc2cb)
+* [**C**: 计算机系统基础 ](https://nju-projectn.github.io/ics-pa-gitbook/ics2022/)
 
 #### Build your own `Digital Products`
 
