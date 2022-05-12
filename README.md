@@ -46,9 +46,9 @@
 * [**Rust**: _编译原理2019_](https://mashplant.gitbook.io/decaf-doc/)
 
 #### Build your own `Emulator / Virtual Machine`
-* [**Rust**: _NES 模拟器(翻译，版权归原作者所有)_](https://blog.buhe.dev/nes)
+* [**Rust**: _NES 模拟器（翻译，版权归原作者所有）](https://blog.buhe.dev/nes)
 * [**Type Script**: _NES 模拟器开发教程_](https://www.jianshu.com/p/d12426ebc2cb)
-* [**C**: 计算机系统基础（其实是自己动手写个模拟器） ](https://nju-projectn.github.io/ics-pa-gitbook/ics2022/)
+* [**C**: 计算机系统基础（其实是自己动手写个模拟器）](https://nju-projectn.github.io/ics-pa-gitbook/ics2022/)
 
 #### Build your own `Digital Products`
 
