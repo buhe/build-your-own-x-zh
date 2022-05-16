@@ -1,5 +1,5 @@
-# ![Build your own X](https://github.com/codecrafters-io/build-your-own-x/raw/master/feynman.png)
-
+# Build your own X
+> What I cannot create, I do not understand — Richard Feynman.
 ## Table of contents
 
 * [Shell](#build-your-own-shell)
