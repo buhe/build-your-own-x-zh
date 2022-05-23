@@ -18,7 +18,7 @@
 * [Chip](#build-your-own-chip)
 * [Web Assembly Runtime](#build-your-own-webassembly-runtime)
 * [Linker](#build-your-own-linker)
-* [Jpeg decoder](#build-your-own-jpeg-decoder)
+* [Decoder](#build-your-own-decoder)
 
 ## Tutorials
 
@@ -78,9 +78,10 @@
 
 * [**Verilog**: 自己动手写处理器 ](https://blog.csdn.net/leishangwen/article/details/36875581)
 
-#### Build your own `Jpeg decoder`
+#### Build your own `Decoder`
 
 * [**Rust**: 跟我寫 JPEG 解碼器 ](https://github.com/MROS/jpeg_tutorial)
+* [**C**: 从零开始的 JSON 库教程 ](https://github.com/miloyip/json-tutorial)
 
 ## Related Resources
 
