@@ -77,6 +77,7 @@
 #### Build your own `Chip`
 
 * [**Verilog**: 自己动手写处理器 ](https://blog.csdn.net/leishangwen/article/details/36875581)
+* [**Verilog**: 从与或非门开始构建一个计算机的教程（写给软件工程师）](https://github.com/buhe/bugu-computer)
 
 #### Build your own `Decoder`
 
