@@ -84,6 +84,10 @@
 * [**Rust**: 跟我寫 JPEG 解碼器 ](https://github.com/MROS/jpeg_tutorial)
 * [**C**: 从零开始的 JSON 库教程 ](https://github.com/miloyip/json-tutorial)
 
+#### Build your own `BlockChain`
+
+* [**Type Script**: 自己动手实现区块链 ](https://github.com/zhubaitian/naivecoin)
+
 ## Related Resources
 
 ### Book
