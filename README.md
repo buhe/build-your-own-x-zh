@@ -88,6 +88,7 @@
 #### Build your own `BlockChain`
 
 * [**Type Script**: 自己动手实现区块链 ](https://github.com/zhubaitian/naivecoin)
+* [**Rust**: 用 Rust 实现区块链 ](https://github.com/Justin02180218/blockchain_rust)
 
 ## Related Resources
 
