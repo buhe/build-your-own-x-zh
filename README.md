@@ -47,6 +47,7 @@
 
 * [**C++/Python**: _MiniDecaf 编译实验_](https://decaf-lang.github.io/minidecaf-tutorial/)
 * [**Rust**: _编译原理2019_](https://mashplant.gitbook.io/decaf-doc/)
+* [**C**: Build your own lisp](https://ksco.gitbooks.io/build-your-own-lisp/content/)
 
 #### Build your own `Emulator / Virtual Machine`
 * [**Rust**: _NES 模拟器（翻译，版权归原作者所有）](https://blog.buhe.dev/nes)
