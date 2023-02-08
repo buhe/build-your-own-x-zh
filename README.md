@@ -113,6 +113,7 @@
   * [编译原理 — 中科大](https://www.bilibili.com/video/BV17W41187gL)
 * Neural Network
   * [吴恩达的 AI 课](https://www.bilibili.com/video/BV1G64y1r71B)
+  * [微积分](https://www.bilibili.com/video/BV1rY4y1P7er?p=1)
 * Chip
   * [Nand2Tetris](https://www.bilibili.com/video/av80737268)
   * [Verilog硬件描述语言](https://www.bilibili.com/video/BV12y4y1v7V3)
