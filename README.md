@@ -104,7 +104,8 @@
   * [计算机组成与设计：硬件/软件接口](https://book.douban.com/subject/35088440/)
 * Chip
   * [计算机系统要素 Nand2Tetris 配套书籍](https://book.douban.com/subject/1998341/)
-
+* Neural Network
+  * [深度学习的数学](https://book.douban.com/subject/33414479/)
 ### Video
 
 * Operating System
