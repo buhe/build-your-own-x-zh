@@ -106,7 +106,7 @@
   * [计算机系统要素 Nand2Tetris 配套书籍](https://book.douban.com/subject/1998341/)
 * Neural Network
   * [深度学习的数学](https://book.douban.com/subject/33414479/)
-  * [深度学习的入门](https://book.douban.com/subject/30270959/)
+  * [深度学习入门](https://book.douban.com/subject/30270959/)
 ### Video
 
 * Operating System
