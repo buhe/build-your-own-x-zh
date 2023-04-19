@@ -118,7 +118,7 @@
   * [微积分](https://www.bilibili.com/video/BV1rY4y1P7er?p=1)
   * [线性代数](https://www.bilibili.com/video/BV16Z4y1U7oU)
   * [CS231n](https://www.bilibili.com/video/BV1nJ411z7fe)
-  * [PyTorch深度学习实践》完结合集](https://www.bilibili.com/video/BV1Y7411d7Ys)
+  * [PyTorch深度学习实践](https://www.bilibili.com/video/BV1Y7411d7Ys)
 * Chip
   * [Nand2Tetris](https://www.bilibili.com/video/av80737268)
   * [Verilog硬件描述语言](https://www.bilibili.com/video/BV12y4y1v7V3)
