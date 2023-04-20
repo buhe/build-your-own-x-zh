@@ -53,6 +53,7 @@
 * [**Rust**: _NES 模拟器（翻译，版权归原作者所有）](https://blog.buhe.dev/nes)
 * [**Type Script**: _NES 模拟器开发教程_](https://www.jianshu.com/p/d12426ebc2cb)
 * [**C**: 计算机系统基础（其实是自己动手写个模拟器）](https://nju-projectn.github.io/ics-pa-gitbook/ics2022/)
+* [**Rust**: RISC-V 模拟器](https://github.com/siriusdemon/Rare)
 
 #### Build your own `Digital Products`
 
