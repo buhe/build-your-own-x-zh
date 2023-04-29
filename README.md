@@ -47,6 +47,7 @@
 
 * [**C++/Python**: _MiniDecaf 编译实验_](https://decaf-lang.github.io/minidecaf-tutorial/)
 * [**Rust**: _编译原理2019_](https://mashplant.gitbook.io/decaf-doc/)
+* [**Rust**: _用 Rust 实现 Lua 解释器_](https://wubingzheng.github.io/build-lua-in-rust/zh/)
 * [**C**: Build your own lisp](https://ksco.gitbooks.io/build-your-own-lisp/content/)
 
 #### Build your own `Emulator / Virtual Machine`
