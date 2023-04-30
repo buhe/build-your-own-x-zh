@@ -116,10 +116,8 @@
 * Programming Language
   * [编译原理 — 中科大](https://www.bilibili.com/video/BV17W41187gL)
 * Neural Network
-  * [吴恩达的 AI 课](https://www.bilibili.com/video/BV1G64y1r71B)
   * [微积分](https://www.bilibili.com/video/BV1rY4y1P7er?p=1)
   * [线性代数](https://www.bilibili.com/video/BV16Z4y1U7oU)
-  * [CS231n](https://www.bilibili.com/video/BV1nJ411z7fe)
   * [PyTorch深度学习实践](https://www.bilibili.com/video/BV1Y7411d7Ys)
   * [機器學習2022](https://www.youtube.com/playlist?list=PLJV_el3uVTsPM2mM-OQzJXziCGJa8nJL8)
 * Chip
